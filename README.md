@@ -1,3 +1,5 @@
+> **This project now lives in [c00lkiddtech/MACN-cheese](https://github.com/c00lkiddtech/MACN-cheese)** under the `desktop/` folder. New downloads and releases are published there. This repository is kept as a snapshot of the first preview; it is not archived or deleted.
+
 # WINN & LINCE
 
 **WINN** (Windows) and **LINCE** (Linux) are a shared [Tauri 2](https://tauri.app/) app for downloading App Store `.ipa` / `.pkg` files and Google Play `.apk` files. They are the Windows and Linux companions to [MACN-cheese](https://github.com/c00lkiddtech/MACN-cheese), a macOS port of [iPadn](https://github.com/mengangs/ipadn).
